@@ -1,0 +1,66 @@
+[
+
+        {
+            "id": 1,
+            "title": "Cămasă asimetrică",
+            "trendTitle": "unique awesome jacket",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+            "image": "./assets/images/product12.jpg",
+            "image2": "./assets/images/product12-2.jpg",
+            "isNew": true,
+            "isTrending": false,
+            "category": "women"
+        },
+        {
+            "id": 2,
+            "title": "Cămasă dantelă",
+            "trendTitle": "Lorem ipsum dolor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+            "image": "./assets/images/product13.jpg",
+            "image2": "./assets/images/product13-2.jpg",
+            "isNew": true,
+            "isTrending": false,
+            "category": "women"
+        },
+        {
+            "id": 3,
+            "title": "Tricou flori",
+            "trendTitle": "Lorem ipsum dolor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+            "image": "./assets/images/product14.jpg",
+            "image2": "./assets/images/product14-2.jpg",
+            "isNew": true,
+            "isTrending": false,
+            "category": "women"
+            },
+            {
+                "id": 4,
+                "title": "sacou fundă",
+                "trendTitle": "Lorem ipsum dolor",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+                "image": "./assets/images/product4.jpg",
+                "isNew": true,
+                "isTrending": false
+            },
+
+            {
+                "id": 9,
+                "title": "a",
+                "trendTitle": "Haine unice",
+                "description": "Firma CROMD este un atelier de personalizare a hainelor care le oferă clienților oportunitatea de a-și  transforma viziunile și ideile în realitate, având sprijinul unei echipe de designeri calificați.",
+                "image": "./assets/images/product9.png",
+                "isNew": false,
+                "isTrending": true,
+                "category": "colecti"
+            },
+            {
+            "id": 11,
+            "title": "sacou fundiță",
+            "trendTitle": "best trending hoodie",
+            "description": "This product is one of our best selling and popular prodcut; Because of its elegance and the beauty of its design, we advise you to buy it quickly before it runs out of stock.",
+            "image": "./assets/images/product5.jpg",
+            "isNew": true,
+            "isTrending": false,
+            "category": "men"
+           }
+]
